@@ -1,11 +1,11 @@
 {
-    "name": "focalstrategy/date_range",
+    "name": "focalstrategy/date-range",
     "description": "Simple Date Range management",
     "type": "library",
     "authors": [
         {
             "name": "Shane Glee",
-            "email": "shaneglee@gmail.com"
+            "email": "shane@focalstrategy.com"
         }
     ],
     "require": {
