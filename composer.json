@@ -1,0 +1,14 @@
+{
+    "name": "focalstrategy/date_range",
+    "description": "Simple Date Range management",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Shane Glee",
+            "email": "shaneglee@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.16"
+    }
+}
